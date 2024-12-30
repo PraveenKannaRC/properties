@@ -13,4 +13,4 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
   application:
-    name: inventory-service
+    name: catalog-service
